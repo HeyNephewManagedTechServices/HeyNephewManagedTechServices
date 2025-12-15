@@ -19,9 +19,15 @@ Here is how I solve business problems with code:
 #### ⚙️ Workflow Automation
 *Systems that eliminate manual data entry and save time.*
 
+
 #### 🛠️ Security & Operations
 *Scripts that keep the business organized, updated, and secure.*
 
+- **[This Could've Been an Email](https://heynephewmanagedtechservices.github.io/money-burner/)**
+    - *A Real-Time Meeting Cost Calculator (PWA).*
+    - **Problem:** Meetings drag on without considering the financial impact.
+    - **Solution:** A PWA that visualizes capital expenditure per second to encourage efficiency.
+    - **Tech:** Vanilla JS, PWA Architecture.
 ---
 
 ### 📡 Hailing Frequencies
