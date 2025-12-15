@@ -23,7 +23,7 @@ Here is how I solve business problems with code:
 #### 🛠️ Security & Operations
 *Scripts that keep the business organized, updated, and secure.*
 
-- **[This Could've Been an Email](https://heynephewmanagedtechservices.github.io/money-burner/)**
+- **[This Could've Been an Email](https://freebies.heynephew.tech/money-burner/)**
     - *A Real-Time Meeting Cost Calculator (PWA).*
     - **Problem:** Meetings drag on without considering the financial impact.
     - **Solution:** A PWA that visualizes capital expenditure per second to encourage efficiency.
